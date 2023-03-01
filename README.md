@@ -1,6 +1,6 @@
 # Wave-Functions-for-Unity
 
-#Wave
+- Wave (Normal)
 
 
 ![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-6f12f58df5.gif)
